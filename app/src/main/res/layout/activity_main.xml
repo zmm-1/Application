@@ -12,7 +12,7 @@
         android:id='@+id/al'
         android:layout_height="wrap_content"
         android:layout_width="match_parent"
-        android:text="大家好，我叫跌三!"
+        android:text="大家好，我叫跌三,点我变成傻逼"
         android:textColor="#DC143C"
         android:textSize="30dp"
         android:layout_gravity="center"

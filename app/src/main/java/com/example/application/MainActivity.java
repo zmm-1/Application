@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         btn=findViewById(R.id.al);
         btn.setOnClickListener(new View.OnClickListener(){
             public void onClick(View v){
-                btn.setText("我被点击了");
+                btn.setText("我是大傻逼");
             }
         });
     }
